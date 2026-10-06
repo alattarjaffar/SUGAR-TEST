@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Buffer__create_post",
+      "mcp__Buffer__edit_post",
+      "mcp__Buffer__get_post",
+      "mcp__Buffer__list_posts",
+      "mcp__Buffer__list_channels",
+      "mcp__Buffer__get_account",
+      "mcp__Buffer__list_ideas",
+      "mcp__Google_Drive__search_files",
+      "mcp__Google_Drive__get_file_metadata",
+      "mcp__Google_Drive__read_file_content",
+      "mcp__Google_Drive__download_file_content"
+    ]
+  }
+}
