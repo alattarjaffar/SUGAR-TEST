@@ -1,9 +1,18 @@
 # Sugar Co — Content Library
 
 Reference for future posts. Drive root: `posts` folder (shared "Anyone with link → Viewer").
+
+```
+posts/
+├── Abdulrahman Posts/   (1WF5Lq0z-ST4zzV1ewebDD8ALOccHbHRi) — Oct campaign designs + videos 1-4 + calendar sheet
+└── Shuruq Posts/        (1MR99NPZxEJRVBGNC3siDrTGmH4f4YgGt) — June studio shoot
+    ├── manu/            7 studio photos
+    ├── 17 studio originals (Clouds, sambosa, croissant, cheesecake, cheese rolls)
+    └── MENU_PHOTOS_Compressed.zip
+```
 Buffer can pull any file here directly with: `https://drive.google.com/uc?export=download&id=<FILE_ID>`
 
-## Folder: `manu` — studio product photography (no text on image)
+## Folder: `Shuruq Posts/manu` — studio product photography (no text on image)
 Professional shoot, pink backdrop, white plinth. Clean images with no text, so they work as backgrounds for designs, feed posts, and TikTok carousels.
 
 | File | Drive ID | What it shows | Best use |
@@ -20,7 +29,7 @@ All are the same set-up: navy Sugar lid, pink box, dusty-pink backdrop — consi
 
 How Claude gets these files: the Drive connector can't download them (too big), so they go through the Composio workbench (download from the public Drive link → resize → fetch from its storage URL).
 
-## `posts` root — loose studio originals (June 2026 shoot, 14–41 MB each)
+## `Shuruq Posts` — studio originals (June 2026 shoot, 14–41 MB each)
 Same pink-backdrop shoot as `manu`, more angles. No text on image.
 
 | File | Drive ID |
@@ -43,11 +52,11 @@ Same pink-backdrop shoot as `manu`, more angles. No text on image.
 | cheese rolls menu.jpg | 1-Ms4QqCPx4BM-7ud2oKpjsWIRxymKc5T |
 | cheese rolls menu 3.jpg | 11ebRepiU4PydCHn_F8sitcooNVKWs-Do |
 
-Also in root: `MENU_PHOTOS_Compressed.zip`.
+Also here: `MENU_PHOTOS_Compressed.zip` (1S9ak21qPz8Umt9dJFWguuK4IPKNCKVJH).
 
 Seen in Sept Buffer posts from this shoot: halved Clouds per flavour (custard & strawberry, cacao/Kinder, pistachio), croissant box with **Nutella** pour.
 
-## Folder: `abdurhman New bost` — October campaign designs (text + price on image)
+## Folder: `Abdulrahman Posts` (was "abdurhman New bost") — October campaign designs (text + price on image)
 15 designed images (offer, menu, Zwaratna, each product box + dip/hand shot) + 4 videos. See `October_WhatsApp_Campaign_Plan.xlsx` creative map. 4:5 versions in `campaign_oct/feed/`.
 
 | Video | Drive ID | Length | Scheduled |
